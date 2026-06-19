@@ -14,7 +14,7 @@ fake-news-detector/
 ├── groq_explainer.py       ← Optional: Groq LLaMA-3 explanation layer
 ├── requirements.txt        ← Python dependencies
 ├── .streamlit/
-│   └── secrets.toml        ← API keys (DO NOT push to GitHub)
+│   └── secrets.toml        ← API keys 
 └── README.md
 ```
 
